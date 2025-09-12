@@ -21,7 +21,7 @@
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e4e2ff8b-30e5-43d7-8bc2-334299093fcf" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/15dd5248-4300-4654-888a-fe30dfd1d651" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e30c095e-5e2c-4a60-a1b3-3e378dfcd3e5" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/655a9243-b06b-4212-9e3c-7325ac388a40" />
 # Please note that the accuracies maybe higher as i stopped the models before they completed all the epochs so as to save time and my laptop
-# I could not compute the confusion matrix for my transfer model with augmentation as my system showed me that my memory is full (I am dual booting linux so it's my fault)
 # Hope you like this too :-)
 
