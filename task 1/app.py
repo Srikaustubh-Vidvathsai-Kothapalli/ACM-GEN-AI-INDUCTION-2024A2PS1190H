@@ -11,6 +11,7 @@ os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
 os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
 
 # Function to remove the think block for my respone:
+def clean_response(response):
     return re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
 
 # Persona prompts
